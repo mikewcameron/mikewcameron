@@ -2,9 +2,9 @@
 ----------
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/IDE-VisualStudio2019-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/IDE-Visual%20Studio%202019-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Notepad++-informational?style=flat&logo=notepad%2B%2B&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-%2ENETCore3%2E1-informational?style=flat&logo=%2Enet&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-%2ENET%20Core%203%2E1-informational?style=flat&logo=%2Enet&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoft-azure&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Graphics-Photoshop-informational?style=flat&logo=adobe-photoshop&logoColor=white&color=2bbc8a)
