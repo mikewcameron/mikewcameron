@@ -1,6 +1,4 @@
-### Hi there 👋
-
-# Technologies and Tools
+## Technologies and Tools
 
 
 <!--
