@@ -1,5 +1,8 @@
-🔧Technologies and Tools
+🔧Technologies & Tools
 ----------
+![](https://img.shields.io/badge/IDE-VisualStudio2019-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+
+
 
 <!--
 **mikewcameron/mikewcameron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
