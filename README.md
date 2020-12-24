@@ -2,6 +2,7 @@
 ----------
 ![](https://img.shields.io/badge/IDE-VisualStudio2019-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Notepad++-informational?style=flat&logo=notepad%2B%2B&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Language-C#-informational?style=flat&logo=c-sharp&logoColor=white&color=2bbc8a)
 
 
 <!--
