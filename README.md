@@ -21,7 +21,8 @@
 🔧Experienced with...
 --------
 ![](https://img.shields.io/badge/Database-MS%20SQL%20Server-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Graphical %20l%20Merge-Adobe%20InDesign-informational?style=flat&logo=adobe-indesign&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Graphical%20Mail%20Merge-Adobe%20InDesign-informational?style=flat&logo=adobe-indesign&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Content%20Managment-SharePoint-informational?style=flat&logo=microsoft-sharepoint&logoColor=white&color=2bbc8a)
 
 <!--
 **mikewcameron/mikewcameron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
