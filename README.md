@@ -24,7 +24,7 @@ Favorite Technologies & Tools
 ![](https://img.shields.io/badge/Authentication-JWT-informational?style=flat&logo=json-web-tokens&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Experimenting-Blazor-informational?style=flat&logo=webassembly&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Communication-Slack-informational?style=flat&logo=slack&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Communication-Zoom-informational?style=flat&logo=zoom&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Teleconferencing-Zoom-informational?style=flat&logo=zoom&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Education-Pluralsight-informational?style=flat&logo=pluralsight&logoColor=white&color=2bbc8a)
 
 Experienced with...
