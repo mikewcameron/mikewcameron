@@ -9,6 +9,7 @@
 ![](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-informational?style=flat&logo=GitHub-Actions&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/App%20Server-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Database-MS%20SQL%20Server-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/UI-Bootstrap%204-informational?style=flat&logo=bootstrap&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Icons-FontAwesome-informational?style=flat&logo=font-awesome&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Notepad++-informational?style=flat&logo=notepad%2B%2B&logoColor=white&color=2bbc8a)
@@ -20,7 +21,6 @@
 
 🔧Experienced with...
 --------
-![](https://img.shields.io/badge/Database-MS%20SQL%20Server-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Graphical%20Mail%20Merge-Adobe%20InDesign-informational?style=flat&logo=adobe-indesign&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Content%20Managment-SharePoint-informational?style=flat&logo=microsoft-sharepoint&logoColor=white&color=2bbc8a)
 
