@@ -1,4 +1,4 @@
-##<g-emoji class="g-emoji" alias="wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f527.png">🔧</g-emoji> Technologies and Tools
+##🔧Technologies and Tools
 
 
 <!--
