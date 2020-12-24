@@ -6,6 +6,7 @@
 ![](https://img.shields.io/badge/Editor-Notepad++-informational?style=flat&logo=notepad%2B%2B&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoft-azure&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Graphics-Photoshop-informational?style=flat&logo=adobe-photoshop&logoColor=white&color=2bbc8a)
 
 <!--
 **mikewcameron/mikewcameron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
