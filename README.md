@@ -5,7 +5,7 @@
 ![](https://img.shields.io/badge/Framework-%2ENET%20Core%203%2E1-informational?style=flat&logo=%2Enet&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoft-azure&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Source%20Control-GitHub-informational?style=flat&logo=GitHub-Actions&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Version%20Control-GitHub-informational?style=flat&logo=GitHub-Actions&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-informational?style=flat&logo=GitHub-Actions&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/App%20Server-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
