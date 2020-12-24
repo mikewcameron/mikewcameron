@@ -10,7 +10,7 @@
 ![](https://img.shields.io/badge/App%20Server-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/UI-Bootstrap%204-informational?style=flat&logo=bootstrap&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Icons-FontAwesome-informational?style=flat&logo=fontawesome&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Icons-FontAwesome-informational?style=flat&logo=font-awesome&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Notepad++-informational?style=flat&logo=notepad%2B%2B&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Graphics-Photoshop-informational?style=flat&logo=adobe-photoshop&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Authentication-JWT-informational?style=flat&logo=json-web-tokens&logoColor=white&color=2bbc8a)
