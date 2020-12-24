@@ -2,6 +2,7 @@ About Me
 ---------
 ![](https://img.shields.io/badge/Laptop-Dell%20XPS15-informational?style=flat&logo=dell&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Desktop-Dell%20Optiplex%990-informational?style=flat&logo=dell&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Browser-Chrome-informational?style=flat&logo=google-chrome&logoColor=white&color=2bbc8a)
 
 Favorite Technologies & Tools
 ----------
