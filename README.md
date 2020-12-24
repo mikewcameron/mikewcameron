@@ -26,6 +26,7 @@
 ![](https://img.shields.io/badge/Content%20Managment-SharePoint-informational?style=flat&logo=microsoft-sharepoint&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/ERP-SAP-informational?style=flat&logo=sap&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Integration-Instagram-informational?style=flat&logo=instagram&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Integration-Salesforce-informational?style=flat&logo=salesforce&logoColor=white&color=2bbc8a)
 
 <!--
 **mikewcameron/mikewcameron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
