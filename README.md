@@ -1,6 +1,10 @@
-🔧Favorite Technologies & Tools
+About Me
+---------
+![](https://img.shields.io/badge/Laptop-Dell%20XPS15-informational?style=flat&logo=dell&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Desktop-Dell%20Optiplex%990-informational?style=flat&logo=dell&logoColor=white&color=2bbc8a)
+
+Favorite Technologies & Tools
 ----------
-![](https://img.shields.io/badge/Hardware-Dell%20XPS15-informational?style=flat&logo=dell&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/IDE-Visual%20Studio%202019-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-%2ENET%20Core%203%2E1-informational?style=flat&logo=%2Enet&logoColor=white&color=2bbc8a)
@@ -22,7 +26,7 @@
 ![](https://img.shields.io/badge/Communication-Zoom-informational?style=flat&logo=zoom&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Education-Pluralsight-informational?style=flat&logo=pluralsight&logoColor=white&color=2bbc8a)
 
-🔧Experienced with...
+Experienced with...
 --------
 ![](https://img.shields.io/badge/Graphical%20Mail%20Merge-Adobe%20InDesign-informational?style=flat&logo=adobe-indesign&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Content%20Managment-SharePoint-informational?style=flat&logo=microsoft-sharepoint&logoColor=white&color=2bbc8a)
