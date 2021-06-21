@@ -28,15 +28,6 @@ Favorite Technologies & Tools
 ![](https://img.shields.io/badge/Troubleshooting-Stack%20Overflow-informational?style=flat&logo=stack-overflow&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Education-Pluralsight-informational?style=flat&logo=pluralsight&logoColor=white&color=2bbc8a)
 
-Experienced with...
---------
-![](https://img.shields.io/badge/Graphical%20Mail%20Merge-Adobe%20InDesign-informational?style=flat&logo=adobe-indesign&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Content%20Managment-SharePoint-informational?style=flat&logo=microsoft-sharepoint&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/ERP-SAP-informational?style=flat&logo=sap&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Integration-Instagram-informational?style=flat&logo=instagram&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Integration-Salesforce-informational?style=flat&logo=salesforce&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Integration-Google%20Analytics-informational?style=flat&logo=google-analytics&logoColor=white&color=2bbc8a)
-
 <!--
 **mikewcameron/mikewcameron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
