@@ -17,16 +17,12 @@ Favorite Technologies & Tools
 ![](https://img.shields.io/badge/Database-Azure%20Cosmos%20DB-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Database-MS%20SQL%20Server-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Package%20Manager-NuGet-informational?style=flat&logo=nuget&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/UI-Bootstrap%204-informational?style=flat&logo=bootstrap&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/UI-Bootstrap%205-informational?style=flat&logo=bootstrap&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Icons-FontAwesome-informational?style=flat&logo=font-awesome&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Notepad++-informational?style=flat&logo=notepad%2B%2B&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Graphics-Photoshop-informational?style=flat&logo=adobe-photoshop&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Authentication-JWT-informational?style=flat&logo=json-web-tokens&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Experimenting-Blazor-informational?style=flat&logo=webassembly&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Communication-Slack-informational?style=flat&logo=slack&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Teleconferencing-Zoom-informational?style=flat&logo=zoom&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Troubleshooting-Stack%20Overflow-informational?style=flat&logo=stack-overflow&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Education-Pluralsight-informational?style=flat&logo=pluralsight&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/UI%20Framework-Blazor%20WASM-informational?style=flat&logo=webassembly&logoColor=white&color=2bbc8a)
 
 <!--
 **mikewcameron/mikewcameron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
