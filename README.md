@@ -3,7 +3,7 @@ About Me
 ![](https://img.shields.io/badge/Laptop-Dell%20XPS15-informational?style=flat&logo=dell&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Desktop-Dell%20Optiplex%20990-informational?style=flat&logo=dell&logoColor=white&color=2bbc8a)
 
-Favorite Technologies & Tools
+Favorite Stack
 ----------
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/IDE-Visual%20Studio%202019-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
