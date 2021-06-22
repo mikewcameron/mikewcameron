@@ -7,7 +7,7 @@ Favorite Technologies & Tools
 ----------
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/IDE-Visual%20Studio%202019-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-%2ENET%20Core%203%2E1-informational?style=flat&logo=%2Enet&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-%2ENET%205-informational?style=flat&logo=%2Enet&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoft-azure&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Version%20Control-GitHub-informational?style=flat&logo=GitHub-Actions&logoColor=white&color=2bbc8a)
