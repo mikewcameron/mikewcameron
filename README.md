@@ -6,7 +6,7 @@ Favorite Stack
 ----------
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/IDE-Visual%20Studio%202022-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-%2ENET%205-informational?style=flat&logo=%2Enet&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-%2ENET%206-informational?style=flat&logo=%2Enet&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/UI%20Framework-Blazor%20WASM-informational?style=flat&logo=webassembly&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoft-azure&logoColor=white&color=2bbc8a)
