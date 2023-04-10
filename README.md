@@ -1,6 +1,6 @@
 About Me
 ---------
-![](https://img.shields.io/badge/Laptop-Dell%20XPS15-informational?style=flat&logo=dell&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Laptop-Dell%20XPS17-informational?style=flat&logo=dell&logoColor=white&color=2bbc8a)
 
 Favorite Stack
 ----------
