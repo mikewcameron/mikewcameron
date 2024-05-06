@@ -2,6 +2,8 @@ About Me
 ---------
 ![](https://img.shields.io/badge/Laptop-Dell%20XPS17-informational?style=flat&logo=dell&logoColor=white&color=2bbc8a)
 
+I write code: I strive for efficiency, reliability and ability to meet past, present, and future business objectives. My career is guided by a commitment to continuous learning and unwavering integrity—values that ensure my success is balanced with a positive impact on the community. Self-educated and continuously supported by a talented team and a loving family, I aim to lead by example, challenging the status quo and introducing disruptive technologies that pave the way for a better future.
+
 Favorite Stack
 ----------
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
